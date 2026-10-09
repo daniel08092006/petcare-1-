@@ -5,6 +5,8 @@ public class Pet_care {
     public static void main(String[] args) {
         
         System.out.println("Hola");
+                System.out.println("que se dice ");
+
     }
     
 }
